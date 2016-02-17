@@ -1,5 +1,0 @@
-/Users/larryhou/Documents/CSharp/EventHandle/EventHandle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/larryhou/Documents/CSharp/EventHandle/EventHandle/bin/Debug/EventHandle.exe.mdb
-/Users/larryhou/Documents/CSharp/EventHandle/EventHandle/bin/Debug/EventHandle.exe
-/Users/larryhou/Documents/CSharp/EventHandle/EventHandle/obj/x86/Debug/EventHandle.exe
-/Users/larryhou/Documents/CSharp/EventHandle/EventHandle/obj/x86/Debug/EventHandle.exe.mdb
